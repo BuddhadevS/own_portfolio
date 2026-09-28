@@ -64,3 +64,4 @@ app.*.map.json
 backup_*/
 
 .claude/
+.env*
